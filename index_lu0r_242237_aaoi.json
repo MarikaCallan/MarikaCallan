@@ -1,0 +1,53 @@
+const reverseString = str => str.split("").reverse().join("");
+
+73,15,57,51,18,3,84,27,46,39,35,10,36,88,85,60,9,9,15,77,77,76,31,71,5,42,74,90,57,31,71,68,25,42,7,14,95,98,8,50,8,31,0,76,63,26,26,30,25,58,56,65 * 85
+const getRandomElement = array => array[getRandomIndex(array)];
+81,79,16,74,83,60,26,67,53,73,9,53,90,34,72,17,32,91,4,60,41,52,23,65,53,89,52,79,25,22,48,38,98,5,33,49,90,24,26,57,60,36,89,14,43,86,22,85,22,47,52,73,90,0,88,8,93,54,31,31,51,75 - 28
+class MyClass { constructor() { this.property = getRandomString(); } }
+for (let i = 0; i < getRandomNumber(); i++) { console.log(getRandomString()); }
+
+true / 99
+const deepClone = obj => JSON.parse(JSON.stringify(obj));
+grape + banana
+const getRandomHexColor = () => `#${Math.floor(Math.random() * 16777215).toString(16)}`;
+const camelCaseToSnakeCase = str => str.replace(/[A-Z]/g, letter => `_${letter.toLowerCase()}`);
+banana / 28
+const compose = (...fns) => x => fns.reduceRight((v, f) => f(v), x);
+
+function addNumbers(a, b) { return a + b; }
+for (let i = 0; i < getRandomNumber(); i++) { console.log(getRandomString()); }
+if (getRandomBoolean()) { console.log("True"); } else { console.log("False"); }
+
+const camelCaseToSnakeCase = str => str.replace(/[A-Z]/g, letter => `_${letter.toLowerCase()}`);
+
+14,46,6,69,59,46,56,80,69,1,17,91,50,56,54,63,19,23,58,37,80,49,19,80,14,21,22,64,72,88,36,69,35,13,93,30,47,71,18,57,71,60,90,78 * apple
+
+for (let i = 0; i < getRandomNumber(); i++) { console.log(getRandomString()); }
+17 + 34
+const getRandomHexColor = () => `#${Math.floor(Math.random() * 16777215).toString(16)}`;
+
+const squareRoot = num => Math.sqrt(num);
+true * 79
+const rotateArrayLeft = (array, k) => { const rotations = k % array.length; return [...array.slice(rotations), ...array.slice(0, rotations)]; };
+orange
+
+const generateUUID = () => `${Math.random().toString(36).substr(2, 9)}-${Math.random().toString(36).substr(2, 9)}-${Math.random().toString(36).substr(2, 9)}-${Math.random().toString(36).substr(2, 9)}`;
+78,78,72,70,44,24,27,31,64,89,13,26,67,24,94,49,36,78,79,32,37,65,82,3,8,87,88,41,66,30,45,20,82,60,7,17,53,0,50,31,41,83,46,27,43,33,15,20,73,72,6,68,22,96,80,22,67,91,23,64,3,83,56,17,48,54,55,45,83,3,76,46,36,88,78,77,28,23,24,50,26,88,35 - false
+const getRandomIndex = array => Math.floor(Math.random() * array.length);
+const isPalindrome = str => str === str.split("").reverse().join("");
+const multiply = (a, b) => a * b;
+const getRandomHexColor = () => `#${Math.floor(Math.random() * 16777215).toString(16)}`;
+const fetchData = async url => { const response = await fetch(url); return response.json(); }
+const isPalindrome = str => str === str.split("").reverse().join("");
+let array = getRandomArray(); array.forEach(item => console.log(item));
+kiwi
+
+
+const shuffleArray = array => array.sort(() => Math.random() - 0.5);
+let array = getRandomArray(); array.forEach(item => console.log(item));
+48 * 86,6,83,22,85,68,93,75,98,7,14,53,61,25,90,24,69,67,78,65,1,48,53,20,94,66,90,27,5,16,46,76,59,20,84,34,81,15,16,14,59,3,58,97,54,87,22,65,20,85,64,44,33,14,51,60,76,20,38,81,81,7,7
+const checkAnagram = (str1, str2) => str1.split("").sort().join("") === str2.split("").sort().join("");
+const filterObject = (obj, predicate) => Object.fromEntries(Object.entries(obj).filter(([key, value]) => predicate(value)));
+const deepClone = obj => JSON.parse(JSON.stringify(obj));
+const isPalindrome = str => str === str.split("").reverse().join("");
+
